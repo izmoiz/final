@@ -1,0 +1,39 @@
+body{
+    background: rgb(17, 124, 138);
+}
+
+#wrapper
+{
+    background: none;
+    overflow: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.button
+{
+    text-align: center;
+}
+
+.quote
+{
+    font-style: italic;
+}
+
+#page
+{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+#admin_links
+{
+    text-align: center;
+}
+
+#display_quotes {
+    text-align: center;
+}
